@@ -1,0 +1,14 @@
+rubino\cine\peliculas\HibernateUtil.class
+rubino\cine\peliculas\entidades\Review.class
+rubino\cine\peliculas\controladores\Registro.class
+rubino\cine\peliculas\ConfiguradorDeLaAplicacion.class
+rubino\cine\peliculas\controladores\Index.class
+rubino\cine\peliculas\entidades\Pelicula.class
+rubino\cine\peliculas\InicializadorDeLaAplicacion.class
+rubino\cine\peliculas\repositorios\RepoRoles.class
+rubino\cine\peliculas\entidades\Usuario.class
+rubino\cine\peliculas\repositorios\RepoPeliculas.class
+rubino\cine\peliculas\controladores\Principal.class
+rubino\cine\peliculas\entidades\Rol.class
+rubino\cine\peliculas\repositorios\RepoReviews.class
+rubino\cine\peliculas\repositorios\RepoUsuarios.class
